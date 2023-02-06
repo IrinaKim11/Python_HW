@@ -1,2 +1,2 @@
-BOT_TOKEN = "5928554851:AAFr06xxbrHXlACZO0cvB0Ah98exnMD8VJU"
-admin_id = 595798507
+BOT_TOKEN = ""
+# admin_id =
